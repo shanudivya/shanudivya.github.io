@@ -220,10 +220,13 @@ margin:0 auto;
 }
 
 .comment {
-    margin: 0;
+      margin: 0;
 	width:80%;
 	margin-top:25px;
-	margin-left:45px;
+	margin-left:1px;
+	height:35px;
+	border:1px solid silver;
+	
 	
 	
 	
@@ -238,8 +241,8 @@ margin:0 auto;
 	color:black;
 	position:relative;
 	bottom:33px;
-	top:-34px;
-	left:480px;
+	top:-38px;
+	left:510px;
 }
 .footer-text{
 	margin-left:-280px;
