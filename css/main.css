@@ -225,9 +225,8 @@ input{
 .comment {
       margin: 0;
 	width:80%;
-	margin-top:25px;
-	margin-left:1px;
-	height:35px;
+	margin-top:-35px;
+	margin-left:65px;
 	border:1px solid silver;
 	
 	
