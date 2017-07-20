@@ -28,9 +28,14 @@ footer {
  
 }
 .white-text {
-  color:white !important;
+  color:black !important;
   
 }
+.black-text{
+	 color:white !important;
+	 background-color:#3b5998 !important;
+}
+
 .plus-btn{
 	margin-top:-px;
 	margin-left:200px;
@@ -118,17 +123,36 @@ body{
 	
 }
 
-.badge{
+.navbar-right .badge{
 	
-	color:gray;
-	background-color:#e9ebee !important;
-	margin-left:33px !important;
+	border-radius:2px;
+	background-color:#fa3e3e !important;
+	padding:1px 3px;
+	color:white;
+	position:relative;
+	left:-2px;
+	top:-15px;
+	
 }
-
+.nav .glyphicon{
+	margin:-30px;
+}
+.nav .items{
+	position:relative;
+	left:-240px;
+}
+.home{
+	margin-right:10px;
+}
+ .item{
+    backgound-color:#3b5998!important;
+	color:white!important;
+}
 .poke-margin{
 	margin-left:41px !important;
 	
 }
+
 .status-box{
 	width:300px;
 	padding:9px;
@@ -355,4 +379,7 @@ input{
 }
 .trending-border{
 	border-bottom:none;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+	background-color:#3b5998 !important;
 }
