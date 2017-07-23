@@ -134,6 +134,7 @@ body{
 	top:-15px;
 	
 }
+
 .nav .glyphicon{
 	margin:-30px;
 }
@@ -148,8 +149,11 @@ body{
     backgound-color:#3b5998!important;
 	color:white!important;
 }
-.poke-margin{
+.poke-margin {
 	margin-left:41px !important;
+	float:right;
+	color:#A9A7A0;
+	backgound-color:#e9ebee;
 	
 }
 
