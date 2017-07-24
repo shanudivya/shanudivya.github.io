@@ -27,11 +27,11 @@ footer {
   height:800px;
  
 }
-.white-text {
-  color:black !important;
+.black-text {
+  color:black!important;
   
 }
-.black-text{
+.white-text{
 	 color:white !important;
 	 background-color:#3b5998 !important;
 }
@@ -130,8 +130,8 @@ body{
 	padding:1px 3px;
 	color:white;
 	position:relative;
-	left:-2px;
-	top:-15px;
+	left:-4px;
+	top:-12px;
 	
 }
 
